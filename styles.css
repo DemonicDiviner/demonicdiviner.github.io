@@ -130,7 +130,7 @@ ul {
 
 li {
 	line-height: 1.6;
-	font-family: 'Trebuchet MS', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	margin-bottom: 15px;
 }
 
@@ -157,8 +157,7 @@ body {
 	margin:0;
 	padding:40px;
 	color:var(--gray-40);
-	/*font-family: 'Roboto', sans-serif;*/
-	font-family: 'Trebuchet MS', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	background:var(--gray-70);
 	-webkit-font-smoothing:antialiased;
 	transition:color var(--animate) ease-in-out, background var(--animate) ease-in-out;
@@ -198,7 +197,7 @@ body.dark header {
 }
 
 p {
-	font-family: 'Trebuchet MS', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	font-size: 16px;
 	list-style-type: decimal;
 }
